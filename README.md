@@ -6,4 +6,3 @@ Reading the AWS CDK documention can sometimes be similar to peeling an onion. I'
 | -------------------------------------------------------------------------------------------- | -------- |
 | [S3](https://github.com/kaisewhite/AWS-CDK-Examples/tree/main/S3)                            | `Python` |
 | [CloudWatch Synthetic Canaries](https://github.com/kaisewhite/AWS-CDK-Examples/tree/main/S3) | `Python` |
-| [S3](https://github.com/kaisewhite/AWS-CDK-Examples/tree/main/S3)                            | `Python` |
